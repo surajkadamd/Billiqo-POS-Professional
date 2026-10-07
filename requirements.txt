@@ -1,0 +1,3 @@
+# Required packages
+# Tkinter is included with standard Python installs on Windows and many Linux/macOS builds.
+# If you use a minimal environment, install tkinter separately for your OS.
