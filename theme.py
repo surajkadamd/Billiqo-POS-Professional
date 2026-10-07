@@ -1,3 +1,6 @@
+import tkinter as tk
+from tkinter import ttk
+
 COLORS = {
     "bg": "#F3F6FB",
     "card": "#FFFFFF",
